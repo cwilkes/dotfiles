@@ -1,0 +1,4 @@
+alias tojson='java -jar ~/avrotools/avro-tools-1.5.4.jar tojson'
+
+export M1="ec2-23-20-146-69.compute-1.amazonaws.com"
+export M2="ec2-184-73-58-113.compute-1.amazonaws.com"
